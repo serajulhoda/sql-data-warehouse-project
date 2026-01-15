@@ -31,6 +31,7 @@ GO
 USE DataWarehouse;
 GO
 
+-- Craete Schemas
 CREATE SCHEMA bronze;
 GO
 CREATE SCHEMA silver;
