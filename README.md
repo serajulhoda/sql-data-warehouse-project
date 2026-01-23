@@ -92,6 +92,8 @@ data-warehouse-project/
 ## ☕ Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+[LinkedIn](https://www.linkedin.com/in/md-serajul-hoda-6869743a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 
 ---
